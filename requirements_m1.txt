@@ -1,0 +1,12 @@
+pandas 
+hjson
+numpy
+plotly
+scikit-learn
+tqdm
+snowflake-connector-python==3.0.0
+transformers
+scipy
+python-dotenv
+psycopg2-binary
+ipykernel
